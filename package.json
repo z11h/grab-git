@@ -1,0 +1,26 @@
+{
+  "name": "grab-git",
+  "version": "0.0.1",
+  "description": "super simple github profile scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZakariaRidouh/grab-git.git"
+  },
+  "keywords": [
+    "github-scraper"
+  ],
+  "author": "Zakaria Ridouh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZakariaRidouh/grab-git/issues"
+  },
+  "homepage": "https://github.com/ZakariaRidouh/grab-git#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "got": "^6.5.0"
+  }
+}
